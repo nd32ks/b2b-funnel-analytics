@@ -1,0 +1,601 @@
+account_id,company,segment,industry,country
+1,"Rodriguez, Figueroa and Sanchez",midmarket,Logistics,USA
+2,Doyle Ltd,startup,Healthcare,Germany
+3,"Mcclain, Miller and Henderson",midmarket,Logistics,Germany
+4,Davis and Sons,midmarket,Manufacturing,UK
+5,"Guzman, Hoffman and Baldwin",startup,Retail,USA
+6,"Gardner, Robinson and Lawrence",enterprise,Logistics,USA
+7,Blake and Sons,midmarket,Retail,USA
+8,"Henderson, Ramirez and Lewis",midmarket,Manufacturing,Germany
+9,Garcia-James,startup,Fintech,USA
+10,Abbott-Munoz,startup,Logistics,Canada
+11,Blair PLC,startup,Retail,UK
+12,Dudley Group,enterprise,Manufacturing,Singapore
+13,Arnold Ltd,midmarket,Healthcare,Australia
+14,"Mcclure, Ward and Lee",midmarket,Logistics,Germany
+15,Williams and Sons,startup,SaaS,Canada
+16,Galloway-Wyatt,startup,SaaS,USA
+17,James Group,startup,Retail,UK
+18,"Flowers, Martin and Kelly",startup,Manufacturing,UK
+19,"Adams, Zuniga and Wong",midmarket,Manufacturing,USA
+20,"Reid, Ferguson and Sanchez",midmarket,Healthcare,UK
+21,Gray-Mayo,midmarket,Retail,UK
+22,"Watts, Robinson and Nguyen",startup,Retail,Australia
+23,Perez Inc,enterprise,Logistics,UK
+24,Morales-Jones,midmarket,Retail,Canada
+25,"Walter, Edwards and Rios",midmarket,Healthcare,Australia
+26,Wilkerson-Day,startup,Logistics,Canada
+27,Baker and Sons,startup,SaaS,USA
+28,"Hoffman, Baker and Richards",startup,Logistics,Canada
+29,"Ross, Robinson and Bright",startup,SaaS,Singapore
+30,"Snyder, Campos and Callahan",midmarket,Fintech,Canada
+31,Burton Ltd,midmarket,Manufacturing,Germany
+32,Carlson-Cruz,enterprise,Manufacturing,Canada
+33,"Ferrell, Rice and Maddox",startup,Logistics,Singapore
+34,Frazier Inc,startup,Manufacturing,USA
+35,"Dyer, Potter and Mack",startup,Retail,Germany
+36,Rodriguez-Graham,startup,Healthcare,USA
+37,Smith-Bowen,startup,SaaS,Canada
+38,"Baker, Mason and White",startup,SaaS,UK
+39,Harrell LLC,startup,Fintech,UK
+40,"Romero, Gonzalez and Brooks",midmarket,SaaS,Singapore
+41,Ryan PLC,startup,Retail,Germany
+42,George Group,midmarket,Manufacturing,USA
+43,Rodriguez LLC,midmarket,Logistics,Australia
+44,Allen-Allen,startup,Healthcare,Canada
+45,"Arroyo, Miller and Tucker",midmarket,Logistics,Australia
+46,Spence PLC,midmarket,Logistics,Singapore
+47,Anderson Group,startup,Logistics,Germany
+48,"Martin, Rose and Obrien",startup,Healthcare,Singapore
+49,Hickman Ltd,midmarket,Fintech,Singapore
+50,"Harris, Collins and Carney",startup,Logistics,USA
+51,"Brooks, Lam and Hayes",startup,Fintech,USA
+52,Walker LLC,startup,Healthcare,UK
+53,Chapman and Sons,midmarket,SaaS,Germany
+54,"Robinson, Jones and Welch",midmarket,Manufacturing,USA
+55,Jones Inc,midmarket,Retail,USA
+56,Jones-Young,midmarket,SaaS,Canada
+57,"Washington, Ryan and Cummings",startup,Fintech,Germany
+58,"Johnston, Sanchez and Kennedy",startup,Retail,Singapore
+59,Lee-Davis,startup,Retail,Singapore
+60,Gomez-Jenkins,startup,Manufacturing,Australia
+61,"Brown, Valdez and Lucas",midmarket,Fintech,Australia
+62,Powell LLC,startup,Logistics,UK
+63,Wright and Sons,startup,Healthcare,Canada
+64,"West, Henderson and Ramirez",midmarket,Manufacturing,Germany
+65,Baxter Inc,midmarket,Fintech,Canada
+66,Morton-Chase,startup,SaaS,Germany
+67,Williams PLC,startup,SaaS,USA
+68,Novak and Sons,startup,Healthcare,Australia
+69,Russell Group,startup,Logistics,USA
+70,Hancock Inc,startup,SaaS,Australia
+71,Gray Group,startup,Healthcare,USA
+72,House-Glover,startup,SaaS,UK
+73,Henderson-Bernard,midmarket,Logistics,Singapore
+74,"Stanley, Tucker and Lee",startup,Manufacturing,Canada
+75,Novak PLC,startup,Manufacturing,Germany
+76,"Daniels, Adkins and Brown",startup,Manufacturing,USA
+77,"Woods, Calhoun and Schmidt",startup,Retail,UK
+78,Yu Inc,midmarket,Manufacturing,Canada
+79,Jones Inc,startup,SaaS,Australia
+80,"Hensley, Powell and David",midmarket,Logistics,USA
+81,"Sanchez, Wheeler and Harvey",midmarket,Manufacturing,Germany
+82,Sandoval-Cunningham,startup,Manufacturing,UK
+83,Donovan-Harris,midmarket,Healthcare,UK
+84,"Edwards, Baker and Anderson",startup,Manufacturing,Canada
+85,"Evans, Stewart and Walton",startup,Healthcare,Singapore
+86,Smith PLC,startup,SaaS,UK
+87,"Ferrell, Jones and Lewis",midmarket,Logistics,Singapore
+88,Anderson-Bailey,startup,Fintech,Germany
+89,Suarez LLC,startup,SaaS,USA
+90,Moore-Bass,startup,Retail,Germany
+91,"Turner, Riggs and Roman",startup,Fintech,UK
+92,"Smith, Montoya and Evans",midmarket,Logistics,UK
+93,"Garcia, Humphrey and Baker",startup,Healthcare,Canada
+94,Newton and Sons,startup,SaaS,Australia
+95,Campbell-Clark,startup,Logistics,USA
+96,Harris-Walters,midmarket,Retail,Canada
+97,Wagner-King,startup,Fintech,Singapore
+98,Davis Group,startup,Manufacturing,Canada
+99,Williams-Cook,startup,Retail,Australia
+100,Walsh LLC,enterprise,SaaS,Germany
+101,Figueroa PLC,enterprise,Manufacturing,Singapore
+102,"Patterson, Smith and Jones",midmarket,Healthcare,Singapore
+103,"Mckee, Gardner and Davenport",startup,Manufacturing,Australia
+104,"Tran, Jordan and Williams",enterprise,Logistics,UK
+105,Nolan-Flynn,midmarket,Retail,UK
+106,Nolan and Sons,midmarket,Manufacturing,UK
+107,"Wright, Garcia and Deleon",startup,Fintech,UK
+108,Dickson-Brady,startup,Fintech,USA
+109,Hancock and Sons,startup,Healthcare,USA
+110,Johnson-Doyle,enterprise,Logistics,Canada
+111,Patton-Jenkins,startup,Retail,USA
+112,"Shields, Cochran and Adams",startup,Healthcare,Canada
+113,"Rodriguez, Brennan and Garrison",startup,Manufacturing,USA
+114,Gonzalez Group,startup,Logistics,Australia
+115,Torres-Pope,startup,Logistics,UK
+116,Walker Ltd,midmarket,Fintech,Singapore
+117,Ross LLC,midmarket,Manufacturing,UK
+118,Rasmussen LLC,midmarket,Retail,Germany
+119,May-Ross,startup,Healthcare,Germany
+120,"Rivera, Johnson and Wiley",midmarket,Healthcare,Singapore
+121,White-Estes,startup,SaaS,Germany
+122,Johnson-Carlson,midmarket,Fintech,Singapore
+123,Chandler-Edwards,startup,Retail,Australia
+124,"Joyce, Wilson and Lam",startup,Logistics,Germany
+125,Scott Ltd,startup,Logistics,Germany
+126,Smith-Frost,startup,Fintech,USA
+127,"Mcdaniel, Bentley and Mclaughlin",startup,Manufacturing,Germany
+128,Diaz Inc,startup,SaaS,USA
+129,"Mccall, Hanson and Alvarado",startup,Manufacturing,UK
+130,Cortez LLC,startup,Healthcare,Canada
+131,"Parker, Ortiz and Powell",startup,Healthcare,USA
+132,Spencer-Lee,enterprise,Manufacturing,Germany
+133,"Bentley, Byrd and Orr",startup,Healthcare,Canada
+134,"Carroll, Sullivan and Bass",startup,Manufacturing,Canada
+135,Mitchell-Jordan,startup,Retail,USA
+136,"Lawson, Morris and Ramos",startup,Logistics,USA
+137,"Lewis, Kennedy and Santana",enterprise,Retail,Germany
+138,"Jackson, Miller and Robertson",startup,Fintech,Singapore
+139,"Harvey, Davis and Crane",midmarket,Manufacturing,Canada
+140,Chambers and Sons,startup,Healthcare,UK
+141,Hernandez Inc,startup,Retail,USA
+142,Riggs PLC,startup,SaaS,UK
+143,Gibson Ltd,enterprise,SaaS,Canada
+144,"Lee, Horton and Snyder",startup,Retail,USA
+145,Hernandez Ltd,startup,Fintech,Germany
+146,Stafford Inc,startup,Logistics,USA
+147,Robinson-Brock,startup,Logistics,USA
+148,"Holmes, Williams and Wright",startup,Manufacturing,Canada
+149,Bryant Group,startup,Manufacturing,USA
+150,"Schmidt, Hansen and Stewart",startup,Retail,UK
+151,Salazar-Ball,midmarket,SaaS,Canada
+152,"Simmons, Meadows and Griffin",midmarket,Healthcare,Singapore
+153,Manning Group,startup,Healthcare,USA
+154,Green-Wright,startup,Logistics,Germany
+155,"Ramirez, Strickland and Washington",startup,Fintech,Canada
+156,Hill Inc,midmarket,Healthcare,Germany
+157,"Mitchell, Nelson and Flores",startup,Healthcare,Singapore
+158,"Miller, Hernandez and Reyes",midmarket,SaaS,Singapore
+159,Mccarthy Inc,midmarket,SaaS,Singapore
+160,Russell-Daniels,midmarket,Healthcare,UK
+161,Brown-Wall,startup,SaaS,Canada
+162,Stein-Silva,enterprise,SaaS,Canada
+163,"Smith, Gilmore and Johnston",startup,Healthcare,USA
+164,Smith-Bell,startup,Fintech,Australia
+165,Castaneda-Ashley,startup,Retail,Australia
+166,Medina-Navarro,startup,SaaS,Australia
+167,"Hurst, Freeman and Nelson",midmarket,Fintech,Germany
+168,Johnson-Rogers,midmarket,Healthcare,Germany
+169,"Yates, Ramsey and Pittman",startup,Logistics,Canada
+170,Hooper PLC,enterprise,Retail,USA
+171,Meadows PLC,startup,Logistics,Australia
+172,"Alvarado, Miller and Patterson",startup,Healthcare,Canada
+173,White-Green,startup,Healthcare,Australia
+174,Lewis-Murphy,enterprise,Healthcare,Germany
+175,Ramirez-Bean,startup,Logistics,Singapore
+176,King-Miller,startup,Logistics,USA
+177,Curry Inc,startup,Logistics,Canada
+178,Walker-Jones,enterprise,Manufacturing,Germany
+179,"Williams, Johnson and Wright",midmarket,Retail,USA
+180,Howell and Sons,midmarket,Retail,Australia
+181,Wells Inc,midmarket,Logistics,Singapore
+182,"Gould, Marshall and Scott",midmarket,Fintech,Singapore
+183,Jackson-Lawson,startup,Healthcare,USA
+184,"Higgins, Strickland and Martin",startup,Logistics,Australia
+185,Rodriguez-Johnson,midmarket,Healthcare,Singapore
+186,Johnston-Odonnell,midmarket,Fintech,Australia
+187,Sanders-Espinoza,startup,Retail,Australia
+188,Vargas Ltd,startup,Fintech,UK
+189,Garcia LLC,midmarket,Logistics,UK
+190,"Burke, Martinez and Riggs",startup,Logistics,Canada
+191,Reed Group,enterprise,Fintech,Singapore
+192,"Wood, Hunter and Peterson",startup,Retail,Germany
+193,Short-Garcia,startup,Logistics,UK
+194,Reid-Poole,midmarket,Manufacturing,Singapore
+195,"Hernandez, Thompson and Boyd",startup,Fintech,Australia
+196,"Nelson, Morton and Medina",startup,Retail,USA
+197,Marshall-Petersen,startup,Retail,Singapore
+198,"Adams, Christian and Rivas",midmarket,Retail,Canada
+199,Ramirez Group,startup,SaaS,UK
+200,Christensen PLC,startup,Fintech,UK
+201,"Barnett, Rogers and Snyder",midmarket,Logistics,Canada
+202,White-Lewis,enterprise,Fintech,USA
+203,Peterson-Beard,startup,Fintech,Germany
+204,"Beard, Peters and Black",startup,Fintech,Germany
+205,Miller Ltd,startup,Fintech,Australia
+206,Freeman-Chang,startup,SaaS,USA
+207,"Alvarez, Joseph and West",startup,Healthcare,Germany
+208,Davis and Sons,midmarket,Logistics,USA
+209,Holt-Torres,startup,SaaS,Australia
+210,"Wood, Tran and Cooper",startup,Fintech,Singapore
+211,"Pierce, Bell and Chavez",midmarket,SaaS,Germany
+212,King-Martinez,startup,Retail,Germany
+213,Stewart Ltd,startup,Fintech,USA
+214,"Tapia, Vaughn and Lee",midmarket,Manufacturing,Canada
+215,"Washington, Hardy and Bray",midmarket,Retail,Singapore
+216,"Carlson, Hooper and Wall",midmarket,Manufacturing,UK
+217,Perez-White,startup,Retail,Germany
+218,Erickson and Sons,startup,Healthcare,Australia
+219,Williams-Brown,enterprise,Logistics,Australia
+220,Terry-Martinez,startup,Healthcare,Germany
+221,Garcia-Smith,startup,Logistics,UK
+222,Harrison-Alexander,startup,Logistics,Singapore
+223,Sheppard LLC,midmarket,Retail,Singapore
+224,Wilson-Jones,enterprise,Manufacturing,Singapore
+225,Jones-Soto,startup,Fintech,USA
+226,Hernandez PLC,enterprise,Manufacturing,Germany
+227,Miller-Wright,startup,Manufacturing,Singapore
+228,"Duran, Obrien and Gibbs",startup,Logistics,Canada
+229,Rowe Group,midmarket,Fintech,Singapore
+230,Kerr-Evans,startup,Manufacturing,Germany
+231,"Branch, Torres and Oliver",startup,Healthcare,Singapore
+232,"Choi, Garcia and Farmer",startup,Fintech,UK
+233,"Clark, Guerrero and Moore",enterprise,Fintech,USA
+234,Arnold and Sons,startup,Retail,Australia
+235,Ortiz Ltd,enterprise,Fintech,Canada
+236,"Harrison, Johnson and Roberts",midmarket,SaaS,Canada
+237,Warner-Gibson,startup,Healthcare,Singapore
+238,"Hall, Baker and Moody",midmarket,Retail,USA
+239,"Guerrero, Peck and Coleman",startup,Fintech,Canada
+240,"Walker, Hernandez and Baker",startup,Logistics,Germany
+241,Jones and Sons,midmarket,Manufacturing,UK
+242,Larson-Holloway,midmarket,Retail,Canada
+243,Gonzales-Harrison,startup,Logistics,Australia
+244,Lyons-Bender,startup,Healthcare,Australia
+245,"Fernandez, Kim and George",midmarket,SaaS,UK
+246,Navarro-Munoz,midmarket,SaaS,Canada
+247,Davis Ltd,midmarket,Logistics,Germany
+248,"Matthews, Smith and Hubbard",startup,Logistics,Singapore
+249,Johnston-Hines,startup,Manufacturing,Australia
+250,Ruiz Ltd,startup,SaaS,Singapore
+251,Moon-White,midmarket,Fintech,UK
+252,"Graham, Olsen and Costa",midmarket,SaaS,UK
+253,Bailey-Cook,startup,SaaS,Germany
+254,"Garcia, Martin and Jenkins",startup,Fintech,Canada
+255,Roberts-Landry,startup,Retail,Australia
+256,"Johnson, Miller and King",midmarket,SaaS,Germany
+257,Cordova Group,midmarket,Logistics,Australia
+258,"Bryan, Smith and Booth",startup,Healthcare,Australia
+259,Gutierrez-Lopez,startup,Fintech,Germany
+260,Dean-Jimenez,startup,Retail,Germany
+261,Wolf-Harris,startup,Manufacturing,Canada
+262,"Anderson, Roberts and Gilmore",midmarket,Fintech,Singapore
+263,Martinez-Dudley,startup,SaaS,USA
+264,"Lloyd, Mckinney and Collins",startup,SaaS,Australia
+265,Tran Inc,enterprise,Logistics,Singapore
+266,Gay Inc,startup,SaaS,Singapore
+267,Valentine-Holland,startup,Retail,Australia
+268,Jimenez Ltd,startup,Healthcare,Canada
+269,Hicks-Hill,startup,Manufacturing,UK
+270,Baird-Sanchez,startup,SaaS,Germany
+271,"Thomas, Lee and Greene",startup,Logistics,UK
+272,"Suarez, Shields and Hill",startup,Manufacturing,Singapore
+273,Morgan-French,startup,Healthcare,Germany
+274,Hoover-Campbell,startup,Fintech,Germany
+275,Monroe-Carpenter,midmarket,Logistics,Australia
+276,"Burns, Hernandez and Ryan",startup,Fintech,Germany
+277,Cook-Hines,startup,Healthcare,Germany
+278,Gibson-Morris,startup,Healthcare,Germany
+279,Pollard and Sons,midmarket,Fintech,UK
+280,"Reyes, Chase and Jenkins",midmarket,Healthcare,USA
+281,Garner-Thornton,startup,SaaS,Australia
+282,Hughes-Alvarado,startup,SaaS,USA
+283,"Pollard, Simpson and Johnson",startup,Fintech,UK
+284,"Sanford, Rivera and Garcia",startup,SaaS,Australia
+285,Garcia-Lozano,startup,Healthcare,USA
+286,Bowen Group,startup,Logistics,Singapore
+287,"Booker, Jones and Harrington",startup,SaaS,Australia
+288,Morgan-Schwartz,startup,SaaS,Singapore
+289,"Miller, Murphy and Craig",startup,SaaS,UK
+290,"James, Stewart and Higgins",startup,Retail,USA
+291,Brennan-Johnson,midmarket,Fintech,Canada
+292,Young Ltd,startup,Healthcare,UK
+293,Bright-Francis,enterprise,SaaS,Australia
+294,Good-Hodges,startup,Fintech,UK
+295,"Brennan, Wallace and Benson",midmarket,Healthcare,USA
+296,Williams Inc,enterprise,Healthcare,Australia
+297,Howard-Jordan,enterprise,Retail,Canada
+298,Schmidt PLC,midmarket,Manufacturing,Canada
+299,"Sparks, Jackson and Miller",midmarket,Healthcare,Australia
+300,Harvey-Allen,midmarket,Logistics,UK
+301,"Thomas, Murray and King",midmarket,Retail,Canada
+302,Estrada-Nolan,startup,Fintech,Australia
+303,Santana-Byrd,startup,Fintech,UK
+304,Jones LLC,startup,Fintech,USA
+305,"Evans, Hayden and Vaughn",midmarket,Retail,Canada
+306,Bruce-Gonzalez,startup,Fintech,UK
+307,Castaneda-Rodriguez,startup,Logistics,Australia
+308,Armstrong-Andrews,midmarket,Healthcare,USA
+309,"Phillips, Spence and Barrett",startup,Logistics,UK
+310,Smith-Grimes,startup,Manufacturing,UK
+311,"Beltran, Lozano and Mcgee",startup,Healthcare,UK
+312,Parsons-Hall,startup,Fintech,Australia
+313,Robinson-Lee,startup,Manufacturing,Canada
+314,Byrd-Le,startup,Fintech,Canada
+315,"Becker, Taylor and Davis",startup,Fintech,Australia
+316,"Lucas, Parker and Alexander",startup,Logistics,UK
+317,"Diaz, Anderson and Browning",startup,Healthcare,Canada
+318,Burgess-Thompson,midmarket,SaaS,Singapore
+319,Buchanan LLC,startup,Healthcare,Singapore
+320,"Shaw, Nelson and Martin",enterprise,Healthcare,Australia
+321,Coffey-Phillips,enterprise,Logistics,Australia
+322,Brock-Mcdonald,startup,Manufacturing,Canada
+323,Taylor and Sons,startup,Fintech,Singapore
+324,"Ramsey, Whitney and Coffey",startup,SaaS,Singapore
+325,"Diaz, Gibbs and Smith",midmarket,Retail,Australia
+326,"Martinez, Richardson and Curry",midmarket,SaaS,UK
+327,Richards-Carson,midmarket,Fintech,UK
+328,Rodriguez-Hall,startup,SaaS,Singapore
+329,Harvey PLC,midmarket,SaaS,USA
+330,Herman-Walker,startup,Logistics,UK
+331,Reid Group,midmarket,SaaS,Australia
+332,"Turner, Ortiz and Taylor",startup,SaaS,Canada
+333,Torres Group,midmarket,Logistics,Singapore
+334,Davis PLC,midmarket,Fintech,Germany
+335,Price LLC,startup,Manufacturing,Germany
+336,"Avery, Horton and Fernandez",midmarket,SaaS,Australia
+337,"Newton, Moore and Perry",startup,SaaS,Singapore
+338,Bass PLC,midmarket,SaaS,USA
+339,Crosby-Ramirez,startup,Manufacturing,Singapore
+340,"Wood, Ramos and Sampson",enterprise,Retail,Germany
+341,Garcia-Jennings,startup,Healthcare,Australia
+342,"Winters, Newman and Brown",enterprise,Fintech,Canada
+343,Lopez-Martinez,midmarket,SaaS,Canada
+344,Davis-Lewis,startup,Retail,Singapore
+345,"Harper, Smith and Buchanan",midmarket,Fintech,Germany
+346,Zhang PLC,midmarket,Retail,Germany
+347,Jones PLC,enterprise,Manufacturing,UK
+348,Willis and Sons,startup,Logistics,Canada
+349,Schroeder-Kramer,startup,Healthcare,Canada
+350,"Smith, Garrison and Thomas",startup,SaaS,Canada
+351,Fernandez and Sons,midmarket,Fintech,UK
+352,Guerrero Inc,startup,Logistics,UK
+353,Smith and Sons,startup,Retail,Canada
+354,"Morris, Thompson and Williams",startup,Retail,Singapore
+355,"Fisher, Wilson and Brown",startup,Healthcare,Australia
+356,Strickland-Palmer,startup,SaaS,Germany
+357,Hayes and Sons,midmarket,Logistics,Germany
+358,"Williams, Logan and Camacho",midmarket,Manufacturing,Singapore
+359,"Turner, Schneider and Johnson",startup,Logistics,Australia
+360,Boone-Simmons,startup,Logistics,Germany
+361,Henry Group,enterprise,Fintech,Australia
+362,Lam LLC,startup,Fintech,UK
+363,"Hernandez, Martinez and Weber",startup,Fintech,Germany
+364,"Kelley, Nguyen and Vang",startup,Logistics,Canada
+365,"Phillips, Wagner and Jordan",midmarket,Retail,Canada
+366,"Wilson, Pena and Rich",startup,Healthcare,Canada
+367,"Le, Lewis and Hayes",midmarket,Logistics,UK
+368,Gutierrez Group,midmarket,Retail,Canada
+369,Perry-Davis,startup,Logistics,Canada
+370,Edwards-Scott,midmarket,Logistics,Canada
+371,Mcdaniel Group,midmarket,SaaS,USA
+372,Davis Inc,startup,Healthcare,Australia
+373,Reynolds Ltd,startup,Manufacturing,Canada
+374,"Watson, Anderson and Brown",startup,Manufacturing,Australia
+375,"Hoffman, Santiago and Jenkins",startup,SaaS,UK
+376,"Pugh, Henderson and Moon",startup,Fintech,Australia
+377,Schmitt PLC,enterprise,Retail,USA
+378,Bell-Lane,startup,Manufacturing,Germany
+379,Moore Group,startup,SaaS,Singapore
+380,Boone LLC,midmarket,Retail,Germany
+381,"Richardson, Farmer and Andrews",startup,Fintech,Australia
+382,Bruce-Villegas,enterprise,Fintech,UK
+383,"Austin, Day and Johnson",midmarket,Retail,Singapore
+384,"Gallegos, Adams and White",startup,Healthcare,Singapore
+385,"Farmer, Dorsey and Bell",startup,Retail,Singapore
+386,Kane PLC,enterprise,Fintech,UK
+387,"Morales, Thomas and Schultz",midmarket,Manufacturing,UK
+388,Davis PLC,enterprise,SaaS,UK
+389,Bennett Group,startup,Logistics,Germany
+390,Moore-Collins,midmarket,SaaS,Singapore
+391,Frank-Bradley,midmarket,Manufacturing,Germany
+392,Ware and Sons,startup,Healthcare,Germany
+393,Webster Inc,startup,Healthcare,UK
+394,"Miller, Ramos and Coleman",midmarket,SaaS,UK
+395,"Ramos, Nelson and Fischer",startup,Manufacturing,Singapore
+396,Reed Inc,startup,SaaS,Australia
+397,Gregory-Watkins,midmarket,Retail,UK
+398,"Estrada, Williams and Foster",startup,Manufacturing,Canada
+399,"Brown, Harris and Dougherty",startup,Logistics,Singapore
+400,Duran LLC,startup,Manufacturing,UK
+401,Wilson-Jimenez,startup,Fintech,Germany
+402,Thompson-James,enterprise,Manufacturing,USA
+403,"Hall, Hansen and Barnett",midmarket,Manufacturing,USA
+404,Jones-Hensley,startup,Fintech,Germany
+405,Graham Group,enterprise,SaaS,Germany
+406,Atkins PLC,midmarket,Logistics,Australia
+407,Berry-Mckinney,startup,SaaS,USA
+408,Roberts-Sullivan,midmarket,Retail,Canada
+409,Jackson-Meza,startup,Fintech,UK
+410,Collier-Gillespie,enterprise,SaaS,USA
+411,Kim Inc,midmarket,Manufacturing,Australia
+412,Graham Group,midmarket,SaaS,Australia
+413,"Miller, Harrell and Reese",startup,Manufacturing,Singapore
+414,Cook and Sons,midmarket,Manufacturing,USA
+415,Dixon Inc,startup,SaaS,USA
+416,"Hicks, Bullock and Bailey",startup,Fintech,Germany
+417,"Mullen, Brewer and Hernandez",startup,Manufacturing,Germany
+418,Thomas and Sons,midmarket,Retail,Canada
+419,Morrison Ltd,startup,SaaS,UK
+420,Thompson Ltd,enterprise,Logistics,UK
+421,Marshall-Elliott,midmarket,Fintech,Canada
+422,"Cole, Glass and Cunningham",startup,SaaS,USA
+423,"Downs, Morris and Maddox",startup,Logistics,USA
+424,Hernandez-Jones,startup,SaaS,Germany
+425,Welch-Hogan,midmarket,Retail,Germany
+426,"Brown, Romero and Collins",midmarket,Logistics,Singapore
+427,Johnson-Wood,startup,Retail,Canada
+428,Jones-Lin,midmarket,Retail,Canada
+429,Gilbert PLC,startup,Healthcare,UK
+430,Ford-Spencer,midmarket,SaaS,Canada
+431,"Huang, Cole and Pacheco",enterprise,Retail,Singapore
+432,"Lopez, Jacobs and Mason",midmarket,Logistics,USA
+433,Hayes LLC,midmarket,SaaS,Canada
+434,"Miller, Lucas and Williams",midmarket,Logistics,USA
+435,"Kim, Gonzales and Mills",startup,Healthcare,Singapore
+436,Cox LLC,startup,Retail,Australia
+437,Ortiz-Morgan,startup,SaaS,UK
+438,"Williams, Mccoy and Cook",startup,Retail,UK
+439,Davis-Gregory,midmarket,Fintech,Germany
+440,King-York,midmarket,Fintech,Canada
+441,"Marks, Cook and Aguilar",midmarket,Manufacturing,UK
+442,Rangel LLC,startup,SaaS,Singapore
+443,"Hale, Myers and Larson",midmarket,Healthcare,Germany
+444,Collins Group,startup,Retail,USA
+445,"Conner, Li and Santiago",startup,SaaS,Australia
+446,"Osborn, Gaines and Davis",midmarket,Fintech,Australia
+447,"Henderson, Cox and Cox",enterprise,Healthcare,Singapore
+448,Bean LLC,midmarket,Retail,UK
+449,Lee-Cooke,startup,Logistics,USA
+450,Jones Inc,midmarket,Logistics,Germany
+451,"Wise, Conley and Stephenson",startup,Fintech,Singapore
+452,Stanley PLC,midmarket,SaaS,Singapore
+453,Harper and Sons,midmarket,SaaS,UK
+454,White Ltd,startup,Retail,Singapore
+455,"Lamb, Martin and Kim",startup,SaaS,UK
+456,Diaz-Ball,startup,Fintech,Australia
+457,Bishop-Goodwin,enterprise,Logistics,Australia
+458,Young-Allen,startup,Logistics,Singapore
+459,Mckee-Lee,midmarket,Logistics,USA
+460,"Valentine, Joyce and Murray",midmarket,Fintech,Canada
+461,Strickland-Shaw,startup,Retail,USA
+462,Burch-Montoya,startup,Retail,Canada
+463,"Taylor, Wright and Davidson",enterprise,Fintech,USA
+464,Spencer-Garcia,startup,Retail,Singapore
+465,"Rosales, Mitchell and Hines",startup,Retail,USA
+466,Cole-Palmer,midmarket,Healthcare,USA
+467,Davis-Lozano,midmarket,Manufacturing,Australia
+468,Wilkerson-Arias,enterprise,Manufacturing,Australia
+469,Brown-Shaw,startup,Retail,USA
+470,Hughes Inc,startup,Manufacturing,Canada
+471,Walker-Flores,startup,Manufacturing,UK
+472,Combs Ltd,startup,Retail,UK
+473,Moody-Taylor,startup,Fintech,UK
+474,Lowery-Kennedy,startup,Manufacturing,Germany
+475,Blake Group,startup,Manufacturing,UK
+476,Gilbert-Bullock,startup,Logistics,Germany
+477,Scott and Sons,startup,SaaS,UK
+478,"Bentley, Lynch and Henderson",midmarket,Healthcare,USA
+479,Young-Martinez,midmarket,Logistics,Germany
+480,Barnes PLC,startup,Retail,Australia
+481,Brown-Copeland,startup,Logistics,Australia
+482,Carlson-Smith,startup,SaaS,Germany
+483,"Andrews, Higgins and Carter",startup,SaaS,UK
+484,Mendez and Sons,startup,Manufacturing,Australia
+485,"Butler, Beck and Miller",startup,Healthcare,Australia
+486,Jones-Fox,startup,Retail,Australia
+487,"Hartman, Romero and Smith",startup,Healthcare,Canada
+488,Williams-Hughes,startup,Healthcare,Australia
+489,King-Smith,startup,Logistics,Canada
+490,Cooper Ltd,startup,SaaS,Germany
+491,"Fuller, Ingram and Moss",midmarket,Manufacturing,Germany
+492,Anderson-Bell,midmarket,Logistics,UK
+493,Li-Thompson,midmarket,Retail,UK
+494,"Marshall, Dominguez and Welch",startup,Healthcare,Australia
+495,Brown Group,midmarket,SaaS,Australia
+496,Carter Inc,startup,Manufacturing,Australia
+497,Blackwell LLC,startup,Healthcare,UK
+498,Robertson-Hays,midmarket,SaaS,Germany
+499,"Kennedy, Johnson and Lucas",startup,Healthcare,UK
+500,Kelly-Norman,startup,Logistics,Canada
+501,"Rivera, Martinez and Richardson",midmarket,Fintech,UK
+502,Paul-Kline,midmarket,Fintech,USA
+503,Morgan-Lopez,enterprise,Manufacturing,Singapore
+504,"Jimenez, Glass and Stone",startup,Fintech,Canada
+505,Acosta Inc,startup,Logistics,Canada
+506,Morrison-Short,midmarket,Logistics,USA
+507,"Carter, Garcia and Murphy",startup,Logistics,UK
+508,Parker-Morrison,midmarket,Logistics,USA
+509,Jackson-Wallace,startup,Fintech,UK
+510,Williams-Berg,startup,Fintech,Singapore
+511,Mendez-Graham,startup,Healthcare,UK
+512,"Whitney, Gould and Jones",midmarket,Healthcare,USA
+513,"Sullivan, Palmer and Brady",startup,Logistics,Singapore
+514,Cisneros and Sons,startup,Manufacturing,USA
+515,"Gregory, Kim and Martinez",startup,Retail,UK
+516,Osborne LLC,startup,Logistics,USA
+517,Reyes-Bradley,startup,Retail,USA
+518,"Hernandez, Cole and Watson",midmarket,Healthcare,Germany
+519,Hines-Berry,startup,Healthcare,Canada
+520,"Richardson, Edwards and Ramirez",midmarket,Retail,Australia
+521,Johnson and Sons,midmarket,SaaS,USA
+522,Holmes-Mcintyre,startup,Manufacturing,USA
+523,Green LLC,startup,Retail,Germany
+524,"Griffin, Davies and Mitchell",midmarket,Manufacturing,Singapore
+525,Gonzalez-Taylor,startup,Retail,Australia
+526,Hayes Ltd,startup,Manufacturing,Australia
+527,Osborn-Cochran,enterprise,Logistics,Germany
+528,Contreras-Mckinney,enterprise,Retail,UK
+529,"Daniels, Vance and York",midmarket,Healthcare,USA
+530,"Mckinney, Graves and Thompson",startup,SaaS,USA
+531,Hicks-Martinez,midmarket,Manufacturing,USA
+532,Conner and Sons,midmarket,Logistics,Canada
+533,Johnson-Spencer,startup,Manufacturing,UK
+534,Mcdonald-Bird,midmarket,Logistics,Australia
+535,Salazar Inc,startup,Logistics,Singapore
+536,Parker Ltd,startup,Manufacturing,Singapore
+537,"Mendoza, Jenkins and Ortiz",startup,Retail,Germany
+538,"Jones, Compton and Day",startup,SaaS,Australia
+539,Owens-Holmes,startup,SaaS,USA
+540,Humphrey PLC,midmarket,Fintech,USA
+541,"Matthews, Saunders and Anderson",enterprise,Healthcare,Germany
+542,"Bartlett, Brown and Martinez",startup,Manufacturing,Germany
+543,Torres and Sons,midmarket,Healthcare,Singapore
+544,Donovan-Perez,enterprise,SaaS,Australia
+545,"Jacobson, Singleton and King",startup,Fintech,Singapore
+546,"Huber, Hill and Weber",startup,Logistics,UK
+547,"Ferguson, Shaw and Jackson",startup,Logistics,UK
+548,"Moore, Hopkins and Le",startup,Healthcare,Australia
+549,"Morgan, Bradshaw and Williams",midmarket,Manufacturing,UK
+550,Miller Ltd,startup,Manufacturing,Singapore
+551,"Baker, Clark and Armstrong",startup,Logistics,Singapore
+552,"Fowler, Jimenez and Burton",startup,Logistics,Australia
+553,May-Turner,startup,Retail,Australia
+554,Ballard Ltd,enterprise,Healthcare,Germany
+555,Evans-Jones,startup,Retail,UK
+556,Moore Group,startup,Fintech,Germany
+557,Marshall-Peterson,startup,Healthcare,Germany
+558,Edwards Ltd,startup,Retail,UK
+559,Gross-Valencia,startup,Retail,Singapore
+560,Anderson-Wood,startup,Retail,UK
+561,"Rodriguez, Allen and Martinez",startup,Healthcare,Singapore
+562,Wright-Davis,startup,Healthcare,Australia
+563,Dougherty-Lin,midmarket,SaaS,Canada
+564,Wright-Grimes,midmarket,Retail,USA
+565,Li PLC,midmarket,Retail,Australia
+566,"Edwards, Hines and Jimenez",midmarket,Logistics,USA
+567,"Owens, Koch and Jimenez",midmarket,Retail,Germany
+568,Landry PLC,startup,Healthcare,UK
+569,Levy-Lewis,startup,SaaS,USA
+570,Williams-Campbell,startup,Fintech,UK
+571,"Khan, Pena and Ruiz",startup,Healthcare,USA
+572,"Smith, Rodriguez and Anderson",midmarket,Healthcare,Australia
+573,Luna-Gallagher,startup,Healthcare,USA
+574,Williams-Williams,midmarket,Healthcare,Germany
+575,"Lee, Tran and Jones",midmarket,Manufacturing,Australia
+576,"Cole, Pierce and Bryan",startup,SaaS,Canada
+577,"Becker, Wilson and Hester",enterprise,Fintech,Canada
+578,Brooks-Hatfield,startup,SaaS,USA
+579,"Mcmillan, Fischer and Gonzalez",midmarket,Fintech,Canada
+580,"Morales, Williams and Williams",startup,Manufacturing,Singapore
+581,"Cook, Wells and Bryant",startup,SaaS,UK
+582,"Barry, Taylor and Velazquez",startup,Healthcare,Germany
+583,Martin-Ewing,startup,SaaS,Canada
+584,"Kirby, Wheeler and Romero",startup,Logistics,Germany
+585,"Patel, Erickson and Evans",enterprise,Manufacturing,UK
+586,Richardson Ltd,midmarket,Fintech,Canada
+587,Whitney PLC,startup,Fintech,Canada
+588,Robles-Swanson,startup,SaaS,Canada
+589,"Soto, Carlson and Baker",startup,Healthcare,Canada
+590,"Patton, Parsons and Lane",startup,Manufacturing,Canada
+591,"Williams, Castillo and Warren",enterprise,Retail,Germany
+592,"Harvey, Randall and Hernandez",startup,Logistics,UK
+593,"Allen, Armstrong and Graves",startup,Healthcare,Singapore
+594,Smith LLC,startup,Fintech,UK
+595,Hernandez-Vaughn,startup,Healthcare,Germany
+596,Shaw-Carr,startup,Fintech,Singapore
+597,Salas-Fitzgerald,midmarket,Logistics,Canada
+598,Thornton PLC,midmarket,Fintech,UK
+599,Hoffman Ltd,enterprise,Healthcare,UK
+600,Fox-Edwards,midmarket,Retail,Australia
